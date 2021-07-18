@@ -194,6 +194,12 @@ The result is  0.9865396293036989. Given that the AUC ranges from 0 to 1, you wa
 - 28.	– 33. Datetime columns: 'issue_d_month', 'earliest_cr_line_month','earliest_cr_line_year','last_pymnt_d_month', 'last_credit_pull_d_month','last_credit_pull_d_year'__    
 **Target value: ‘grade’**
 ```
+```output
+| File name      | Description | Description    |
+| :---        |    :----:   |          ---: |
+| accepted_2017_to_2018q4.csv      |    Information about loan accepted when they submit the application.    | 152   |
+| rejected_2017_to_2018q4.csv   |    Information about loan rejected when they submit the application.     | 9      |  
+```
 
 
 
