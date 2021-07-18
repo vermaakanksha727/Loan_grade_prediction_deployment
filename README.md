@@ -10,7 +10,7 @@
 >
 > Remember how linear regression often used ordinary least squares to arrive at a value? Logistic regression relies on the concept of 'maximum likelihood' using [sigmoid functions](https://wikipedia.org/wiki/Sigmoid_function). A 'Sigmoid Function' on a plot looks like an 'S' shape. It takes a value and maps it to somewhere between 0 and 1. Its curve is also called a 'logistic curve'. Its formula looks like thus:
 >
-> ![logistic function](images/sigmoid.png)
+> ![logi3](https://user-images.githubusercontent.com/78952426/126063661-af40a4fb-cd81-42b5-8eec-4b40ac681f01.png)
 >
 > where the sigmoid's midpoint finds itself at x's 0 point, L is the curve's maximum value, and k is the curve's steepness. If the outcome of the function is more than 0.5, the label in question will be given the class '1' of the binary choice. If not, it will be classified as '0'.
  
