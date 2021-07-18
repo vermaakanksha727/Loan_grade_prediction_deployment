@@ -162,7 +162,37 @@ The result is  0.9865396293036989. Given that the AUC ranges from 0 to 1, you wa
   - Using Heroku, Platform as a service we have successfully deployed our model in the online web server and provided ease to end users.
   - Deployed Online url:[http://loangradeprediction-api.herokuapp.com/](http://loangradeprediction-api.herokuapp.com/)
  
- 
+
+```output
+- 1.	'funded_amnt_inv',  
+- 2.	'int_rate',  
+- 3.	'emp_length',  
+- 4.	'annual_inc',  
+- 5.	'pymnt_plan',  
+- 6.	'dti',  
+- 7.	'deling_2yrs',  
+- 8.	'fico_range_low',  
+- 9.	'ing_last_6mths',  
+- 10.	'open_acc',  
+- 11.	'pub_rec',  
+- 12.	'revol_bal',  
+- 13.	'revol_util',  
+- 14.	'total_acc',  
+- 15.	'initial_list_status',  
+- 16.	'total_rec_late_fee',  
+- 17.	'last_pymnt_amnt',  
+- 18.	'last_fico_range_high',  
+- 19.	'last_fico_range_low',  
+- 20.	'collections_12_mths_ex_med',  
+- 21.	'policy_code',  
+- 22.	'application_type',  
+- 23.	'acc_now_dealing',  
+- 24.	'tot_coll_amt',  
+- 25.	'tot_cur_bal',  
+- 26.	'total_bal_il',  
+- 27.	'max_bal_bc',  
+- 28.	– 33. Datetime columns: 'issue_d_month', 'earliest_cr_line_month','earliest_cr_line_year','last_pymnt_d_month', 'last_credit_pull_d_month','last_credit_pull_d_year'__    
+``` 
 
 
 
