@@ -18,7 +18,7 @@
 The data set contains Loan grades:7 classes where each class refers to digit(1:A,2:B,3:C,4:D,5:E,6:F,G:7).Objective of our model is to predict the correct grade ,based on given data and deploy that model to predict Loan Grade on Heroku using Flask.
 
 ## Build Multiclass Logistic Regression Model
-Building a model to find these Multi classification is straightforward in Scikit-learn.
+Building a model to predict these multiclass is straightforward in Scikit-learn.
  - **Create Test and Train Dataset**
 
    select variables for classifiaction model and split dataset,so that we can use one set of data for training the model and one set for testing the model,split the training        and test sets calling `train_test_split()`:
