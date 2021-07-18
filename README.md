@@ -192,8 +192,8 @@ The result is  0.9865396293036989. Given that the AUC ranges from 0 to 1, you wa
 - 26.	'total_bal_il',  
 - 27.	'max_bal_bc',  
 - 28.	– 33. Datetime columns: 'issue_d_month', 'earliest_cr_line_month','earliest_cr_line_year','last_pymnt_d_month', 'last_credit_pull_d_month','last_credit_pull_d_year'__    
-``` 
-
+**Target value: ‘grade’**
+```
 
 
 
