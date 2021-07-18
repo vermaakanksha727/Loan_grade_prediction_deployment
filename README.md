@@ -1,7 +1,7 @@
 # Logistic Regession to Predict Loan Grade
 **Logistic Regression** is a Machine Learning classification algorithnm that is used to predict the probability of categorical dependent variable.In logistic regression,the dependent variable is a **binary** or **Multinomial**, which involves having more than one category.
 
-# Logistic Regression Assumptions:
+## Logistic Regression Assumptions:
 - The independent variables should be independent of each other. That is, the model should have little or no multicollinearity.
 - The independent variables are linearly related to the log odds.
 - Logistic regression requires quite large sample sizes.
